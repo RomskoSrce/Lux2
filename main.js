@@ -1,14 +1,5 @@
 /*
- *  yahiarefaiea-official-website-beta 1.0.0
- *  
- *  I’m a 21 years old handsome guy who grows up in a small town in Syria.
- *  http://beta.yahiarefaiea.com/
- *  hello@yahiarefaiea.com
- *  
- *  Last update on: 2018/10/24
- *  ©2018 Yahia Refaiea. all rights reserved.
- */
-
+*/
 $(document).ready(function () {
     var input = $('.field').find('input, textarea');
     input.keyup(function () {
